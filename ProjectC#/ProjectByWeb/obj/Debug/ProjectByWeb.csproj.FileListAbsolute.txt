@@ -1,0 +1,11 @@
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectByWeb.dll.config
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectByWeb.dll
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectByWeb.pdb
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectC.exe
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectC.pdb
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\bin\ProjectC.exe.config
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\obj\Debug\ProjectByWeb.csprojAssemblyReference.cache
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\obj\Debug\ProjectByWeb.csproj.CoreCompileInputs.cache
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\obj\Debug\ProjectByWeb.csproj.CopyComplete
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\obj\Debug\ProjectByWeb.dll
+E:\FPT\PRN292\C#\ProjectC\ProjectByWeb\obj\Debug\ProjectByWeb.pdb
